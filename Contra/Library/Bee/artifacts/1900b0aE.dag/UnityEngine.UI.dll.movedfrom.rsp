@@ -1,6 +1,3 @@
-Library\Bee\artifacts\movedfrom\Unity.Analytics.StandardEvents.dll_14208177296704504919.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Analytics.Editor.dll_12756423086588938427.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Analytics.Tracker.dll_1223363201160515014.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_10486388265655800333.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_6196931269142192859.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_569317945740263126.movedfrom
@@ -84,3 +81,6 @@ Library\Bee\artifacts\movedfrom\UnityEditor.iOS.Extensions.Common.dll_9302716263
 Library\Bee\artifacts\movedfrom\UnityEditor.iOS.Extensions.dll_17986879830996805093.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.iOS.Extensions.Xcode.dll_5668621290036334220.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.WindowsStandalone.Extensions.dll_5072787198527537013.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.StandardEvents.dll_812988531695981647.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.Editor.dll_13332073400726907059.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.Tracker.dll_3562243767991046734.movedfrom

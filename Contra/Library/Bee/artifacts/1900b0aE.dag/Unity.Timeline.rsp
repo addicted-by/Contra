@@ -108,11 +108,6 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/Users/User/Desktop/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
--r:"C:/Users/User/Desktop/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Editor.dll"
--r:"C:/Users/User/Desktop/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Tracker.dll"
--r:"C:/Users/User/Desktop/Contra/Contra/Library/PackageCache/com.unity.purchasing@3.0.0-pre.4/Plugins/UnityPurchasing/Security/live/Security.dll"
--r:"C:/Users/User/Desktop/Contra/Contra/Library/PackageCache/com.unity.purchasing@3.0.0-pre.4/Plugins/UnityPurchasing/winrt/winrt.dll"
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -311,6 +306,11 @@
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"C:/Users/User/Desktop/Games/2021.1.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Users/User/Documents/GitHub/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
+-r:"C:/Users/User/Documents/GitHub/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Editor.dll"
+-r:"C:/Users/User/Documents/GitHub/Contra/Contra/Library/PackageCache/com.unity.analytics@3.5.3/Unity.Analytics.Tracker.dll"
+-r:"C:/Users/User/Documents/GitHub/Contra/Contra/Library/PackageCache/com.unity.purchasing@3.0.0-pre.4/Plugins/UnityPurchasing/Security/live/Security.dll"
+-r:"C:/Users/User/Documents/GitHub/Contra/Contra/Library/PackageCache/com.unity.purchasing@3.0.0-pre.4/Plugins/UnityPurchasing/winrt/winrt.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.timeline@1.5.1-pre.3/Runtime/Activation/ActivationMixerPlayable.cs"

@@ -22,9 +22,6 @@ Library\Bee\artifacts\movedfrom\UnityEngine.Purchasing.ref.dll_62293768506704014
 Library\Bee\artifacts\movedfrom\UnityEngine.SpatialTracking.ref.dll_1536532929567987477.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.UI.ref.dll_648142665722821984.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.XR.LegacyInputHelpers.ref.dll_18420402004878937986.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Analytics.StandardEvents.dll_14208177296704504919.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Analytics.Editor.dll_12756423086588938427.movedfrom
-Library\Bee\artifacts\movedfrom\Unity.Analytics.Tracker.dll_1223363201160515014.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_6196931269142192859.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_569317945740263126.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.dll_2191838880547925962.movedfrom
@@ -104,3 +101,6 @@ Library\Bee\artifacts\movedfrom\UnityEngine.WindModule.dll_17253178723624488047.
 Library\Bee\artifacts\movedfrom\UnityEngine.XRModule.dll_14234581423843343441.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.iOS.Extensions.Common.dll_9302716263293163712.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.iOS.Extensions.Xcode.dll_5668621290036334220.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.StandardEvents.dll_812988531695981647.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.Editor.dll_13332073400726907059.movedfrom
+Library\Bee\artifacts\movedfrom\Unity.Analytics.Tracker.dll_3562243767991046734.movedfrom
